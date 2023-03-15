@@ -1,4 +1,4 @@
-# upcoming-projects
+# Upcoming Projects
 
 - sprite extruder mod
 - water pump to flow coolant into the CNC router
